@@ -12,11 +12,8 @@
 <li>Python Malware Example</li>
 Created for research and education of purple team activities.
 
-<li>HackPhone</li>
-HackPhone provides a mobile cybersecurity research platform over your Android and Ios devices.
-
 <li>Blog</li>
-This is where I share write-ups of malware analysis, digital forensics, and offensive security.
+The place where I document my researching process
 
 <li>Chambafinder3000</li>
 
