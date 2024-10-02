@@ -10,11 +10,11 @@
 <li>Blog</li>
 The place where I document my researching process
 
-<li>Machine Learning Malware Detector<li>
+<li>Machine Learning Malware Detector</li>
 
-<li>Android malware detector base on ML/IA<li>
+<li>Android malware detector base on ML/IA</li>
 
-<>Universal Malware Analysis Tool<>
+<li>Universal Malware Analysis Tool</li>
 
 <li>Python Malware Example</li>
 Created for research and education of purple team activities.
