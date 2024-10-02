@@ -2,18 +2,22 @@
 
 ###### Welcome to my repo, this is where I share a brief of my code skills focused on cybersecurity and data science.!
 
-##### My current main focus project is Ark Cybese Security Institute. 
-###### If you would like to collaborate, write to us at collaborate@arkcybersecurity.net 
+##### I'm current fouces on my InfoSec Eng position at ThousandEyes part of Cisco & building my personal branding JanCSG 
+###### If you would like to collaborate, write to us at contact@jancsg.me 
 
-#### Projects
-
-<li>Ark Cyber Security Institute</li>
-
-<li>Python Malware Example</li>
-Created for research and education of purple team activities.
+#### Current Projects
 
 <li>Blog</li>
 The place where I document my researching process
+
+<li>Machine Learning Malware Detector<li>
+
+<li>Android malware detector base on ML/IA<li>
+
+<>Universal Malware Analysis Tool<>
+
+<li>Python Malware Example</li>
+Created for research and education of purple team activities.
 
 <li>Chambafinder3000</li>
 
