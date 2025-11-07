@@ -1,6 +1,6 @@
 # Jan CSG
 
-###### Welcome to my repo, this is where I share a brief of my code skills focused on cybersecurity and data science.!
+## Welcome to my repo, this is where I share a brief of my code skills focused on cybersecurity and data science.!
 
 
 #### Social Network
