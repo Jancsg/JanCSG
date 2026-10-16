@@ -43,8 +43,6 @@ Previously Technical Lead of Vulnerability Management & Penetration Testing SME 
 
 ## 🌐 Socials
 
-## 🌐 Socials
-
 [![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=black)](https://linktr.ee/JanCSG)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JanCSG)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jaancsg)
