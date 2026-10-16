@@ -85,14 +85,20 @@ Previously Vulnerability Management & Penetration Testing SME at Cisco, and Vuln
 
 **DevOps & DevSecOps**
 
-CI/CD, Infrastructure as Code, and SDLC supply-chain controls (SCA, SLSA, SBOM, Dependency-Track).
-
+![CI/CD](https://img.shields.io/badge/CI%2FCD-1F2937?style=flat)
+![Infrastructure as Code](https://img.shields.io/badge/Infrastructure_as_Code-1F2937?style=flat)
+![SDLC](https://img.shields.io/badge/SDLC-1F2937?style=flat)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
 ![JFrog Artifactory](https://img.shields.io/badge/JFrog%20Artifactory-41BF47?style=flat&logo=jfrog&logoColor=white)
 ![Odyssey](https://img.shields.io/badge/Odyssey-1F2937?style=flat)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white)
+![SCA](https://img.shields.io/badge/SCA-334155?style=flat)
+![SLSA](https://img.shields.io/badge/SLSA-334155?style=flat)
+![SBOM](https://img.shields.io/badge/SBOM-334155?style=flat)
+![Dependency-Track](https://img.shields.io/badge/Dependency--Track-334155?style=flat)
+
 
 ---
 
