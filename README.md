@@ -206,17 +206,3 @@ Cybersecurity content on TikTok (1.1M+ views, 27K+ followers), YouTube, and Udem
 </div>
 
 <br/>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jancsg&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jancsg&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
