@@ -15,20 +15,20 @@
 
 ## 💫 About Me
 
-Hooked on breaking and securing systems since age 10. Senior Security Researcher at **Cisco ThousandEyes**, with **7+ years** securing large-scale SaaS across detection, incident response, cloud and Kubernetes, product security, and vulnerability research.
+Senior Security Researcher at **Cisco ThousandEyes**, with **7+ years** securing large-scale SaaS across detection, incident response, cloud and Kubernetes, product security, and vulnerability research.
 
 I investigate and mitigate critical incidents involving advanced persistent threats and nation-state campaigns, including **Cozy Bear, TeamPCP, and Lazarus**. As a **Bugcrowd P1 Warrior Level 3**, I use that offensive background to write detection, hunt in AWS and Kubernetes, and close real attack paths.
 
-- **DFIR** — on-prem (Windows, Linux, macOS), cloud (AWS, Azure, GCP: IAM, VPC, EC2, ECR, EKS, S3, KMS, Lambda), and cloud-native (microservices, containers, Kubernetes, CI/CD). Platform abuse, malware, root cause, and chain of custody.
-- **Red Team & VDP** — internal and third-party engagements, bug bounty operations, triage through remediation with engineering and SRE.
-- **Vulnerability research** — web, API, Android/iOS, and Windows/Linux/macOS binaries. Fuzzing, business logic, and proof-of-concept exploits.
-- **Detection engineering** — Splunk ES, Elastic/Kibana, Microsoft Sentinel, Akamai WAF, Cisco Secure Cloud Analytics, and Suricata. Cisco XDR, CrowdStrike, and Cortex XDR. MITRE ATT&CK, IOCs, IOAs, BIOCs, YARA, and SIGMA.
-- **Offensive AI** — LLM vulnerabilities, prompt injection, and deployment risk under Google’s Secure AI Framework (SAIF).
-- **Supply chain** — SDLC, SCA, SLSA, SBOM, Dependency-Track, Snyk, and SonarQube.
-- **Mobile** — Frida, JADX, MobSF, SSL pinning bypass, and lab forensics with Cellebrite, Magnet AXIOM, and Magnet.
-- **Malware reverse engineering** — IDA, Ghidra, Hopper, WinDbg, strace, and LLDB. OSINT and dark/deep-web monitoring.
+- **DFIR** — Incident response and forensics on endpoints, multi-cloud, and Kubernetes, from platform abuse and malware through root cause and chain of custody.
+- **Red Team & VDP** — Adversary simulations and disclosure programs, from exploit validation through remediation with engineering and SRE.
+- **Vulnerability research** — Web, API, mobile, and native binaries, including fuzzing, business logic, and proof-of-concept exploits.
+- **Detection engineering** — Detection and threat hunting mapped to MITRE ATT&CK, built to raise coverage and cut false positives.
+- **Offensive AI** — LLM attack surface, prompt injection, and deployment risk under Google SAIF.
+- **Supply chain** — Security in the SDLC: dependency control, provenance, and SBOMs.
+- **Mobile** — Android and iOS testing, SSL pinning bypass, and mobile device forensics.
+- **Malware reverse engineering** — Static and dynamic analysis, plus OSINT and dark/deep-web monitoring.
 
-Previously **Security Technical and SMELead at Tata Consultancy Services**, leading a securiy engineers for top global customers suck EY, IBM, Nokia, Santander, and Cisco. 
+Previously Security Technical Lead and SME at Tata Consultancy Services, leading security engineers for global customers such as EY, IBM, Nokia, Santander, and Cisco.
 
 Cybersecurity content on TikTok (1.1M+ views, 27K+ followers), YouTube, and Udemy.
 
@@ -62,7 +62,6 @@ Cybersecurity content on TikTok (1.1M+ views, 27K+ followers), YouTube, and Udem
 | **Practical Ethical Hacking** | TCM Security | Offensive Security |
 | **Practical Privilege Escalation** | TCM Security | Windows & Linux |
 
-Universidad Internacional de Querétaro (UNIQ) — Information Systems Engineering, 2017–2018.
 
 ---
 
@@ -96,7 +95,16 @@ Universidad Internacional de Querétaro (UNIQ) — Information Systems Engineeri
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
 
-**Offensive Security & Research**
+**DFIR & Cloud**
+
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+**Red Team & Vulnerability Research**
 
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white)
@@ -105,30 +113,41 @@ Universidad Internacional de Querétaro (UNIQ) — Information Systems Engineeri
 ![Sliver](https://img.shields.io/badge/Sliver-111827?style=flat)
 ![Mythic](https://img.shields.io/badge/Mythic-111827?style=flat)
 
-**Malware & Mobile**
+**Detection Engineering**
 
-![Ghidra](https://img.shields.io/badge/Ghidra-1F2937?style=flat)
-![IDA](https://img.shields.io/badge/IDA-1F2937?style=flat)
-![Frida](https://img.shields.io/badge/Frida-111827?style=flat)
-![JADX](https://img.shields.io/badge/JADX-111827?style=flat)
-![MobSF](https://img.shields.io/badge/MobSF-111827?style=flat)
-![YARA](https://img.shields.io/badge/YARA-334155?style=flat)
-![SIGMA](https://img.shields.io/badge/SIGMA-334155?style=flat)
-
-**Cloud, Containers & Detection**
-
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white)
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=flat)
 ![CrowdStrike](https://img.shields.io/badge/CrowdStrike-E01F21?style=flat)
+![Cortex XDR](https://img.shields.io/badge/Cortex%20XDR-00C1B2?style=flat)
+![Cisco XDR](https://img.shields.io/badge/Cisco%20XDR-1BA0D7?style=flat)
+![Cisco Secure Cloud Analytics](https://img.shields.io/badge/Cisco%20Secure%20Cloud%20Analytics-1BA0D7?style=flat)
 ![Suricata](https://img.shields.io/badge/Suricata-1F2937?style=flat)
 ![Akamai](https://img.shields.io/badge/Akamai-0096D6?style=flat&logo=akamai&logoColor=white)
+![YARA](https://img.shields.io/badge/YARA-334155?style=flat)
+![SIGMA](https://img.shields.io/badge/SIGMA-334155?style=flat)
+
+**Offensive AI**
+
+![Google SAIF](https://img.shields.io/badge/Google%20SAIF-4285F4?style=flat)
+
+**Mobile**
+
+![Frida](https://img.shields.io/badge/Frida-111827?style=flat)
+![JADX](https://img.shields.io/badge/JADX-111827?style=flat)
+![MobSF](https://img.shields.io/badge/MobSF-111827?style=flat)
+![Cellebrite](https://img.shields.io/badge/Cellebrite-334155?style=flat)
+![Magnet AXIOM](https://img.shields.io/badge/Magnet%20AXIOM-334155?style=flat)
+
+**Malware Reverse Engineering**
+
+![Ghidra](https://img.shields.io/badge/Ghidra-1F2937?style=flat)
+![IDA](https://img.shields.io/badge/IDA-1F2937?style=flat)
+![Hopper](https://img.shields.io/badge/Hopper-1F2937?style=flat)
+![WinDbg](https://img.shields.io/badge/WinDbg-1F2937?style=flat)
+![strace](https://img.shields.io/badge/strace-111827?style=flat)
+![LLDB](https://img.shields.io/badge/LLDB-111827?style=flat)
+![OSINT](https://img.shields.io/badge/OSINT-334155?style=flat)
 
 **Cloud Security**
 
