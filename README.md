@@ -12,15 +12,15 @@
 
 I work in **product security** for cloud-native and Kubernetes environments: incident response, offensive testing, and vulnerability research across SaaS, APIs, mobile, and system binaries.
 
-- **DFIR** — incident response and digital forensics on on-premise systems, cloud-native and Kubernetes platforms
-- **Red Team & VDP** — internal adversary simulations and the Vulnerability Disclosure Program
+- **DFIR** — incident response and digital forensics on on-premise systems (Windows, Linux & macOS), Cloud (AWS, Azure, GCP) and cloud-native (Micro services, Containers, K8 & CI/CD)
+- **Red Team & VDP** — adversary simulations and the Vulnerability Disclosure Program
 - **Vulnerability research** — web, API, Android/iOS, and Windows/Linux binaries
-- **Detection engineering** — SIEM, IDS, and WAF, mapped to MITRE ATT&CK, IOCs, IOAs, and BIOCs
-- **Supply chain** — SCA, SLSA, SBOM, and Dependency-Track in the Cisco SDLC
+- **Detection engineering** — SIEM, IDS, and WAF, MITRE ATT&CK, IOCs, IOAs, and BIOCs
+- **Supply chain** — SDLC,SCA, SLSA and SBOM
 - **Bugcrowd** — P1 Warrior Level 3 since 2018 (cloud, web, API, and mobile)
 - **Teaching** — cybersecurity content on TikTok and YouTube (1.1M+ views, 27K+ followers on TikTok) and instructor on Udemy
 
-Previously Vulnerability Management & Penetration Testing SME at Cisco, and Vulnerability Management Technical Lead at Tata Consultancy Services.
+Previously Technical Lead of Vulnerability Management & Penetration Testing SME at Tata Consultancy Services.
 
 ---
 
@@ -43,9 +43,22 @@ Previously Vulnerability Management & Penetration Testing SME at Cisco, and Vuln
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jancsg)
-[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/user/jan-carlos-santillan-garcia/)
+## 🌐 Socials
+
+[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=black)](https://linktr.ee/JanCSG)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JanCSG)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jaancsg)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@jaancsg)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@JanCSG)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hQWmYEHRjU)
+[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/user/jan-carlos-santillan-garcia)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-%239FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/1066574)
+
+[![Blog](https://img.shields.io/badge/Blog-1F2937?style=for-the-badge)](https://jancsg.me/blog)
+[![Media Kit](https://img.shields.io/badge/Media%20Kit-1F2937?style=for-the-badge)](https://jancsg.me/media-kit)
+[![Patreon](https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/cw/JanCSG)
+[![Cursos YouTube](https://img.shields.io/badge/Cursos%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ArkCSI/playlists)
+[![Mobile Hacking Lab](https://img.shields.io/badge/Mobile%20Hacking%20Lab-334155?style=for-the-badge)](https://www.mobilehackinglab.com/link/ON0UDP)
 
 ---
 
