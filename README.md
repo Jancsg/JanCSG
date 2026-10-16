@@ -12,7 +12,7 @@
 
 I work in **product security** for cloud-native and Kubernetes environments: incident response, offensive testing, and vulnerability research across SaaS, APIs, mobile, and system binaries.
 
-- **DFIR** — incident response and digital forensics on cloud-native and Kubernetes platforms
+- **DFIR** — incident response and digital forensics on on-premise systems, cloud-native and Kubernetes platforms
 - **Red Team & VDP** — internal adversary simulations and the Vulnerability Disclosure Program
 - **Vulnerability research** — web, API, Android/iOS, and Windows/Linux binaries
 - **Detection engineering** — SIEM, IDS, and WAF, mapped to MITRE ATT&CK, IOCs, IOAs, and BIOCs
@@ -73,7 +73,26 @@ Previously Vulnerability Management & Penetration Testing SME at Cisco, and Vuln
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=flat)
+
+**Cloud Security**
+
+![Trivy](https://img.shields.io/badge/trivy-1904DA?style=flat&logo=trivy&logoColor=white)
+![Aqua Security](https://img.shields.io/badge/Aqua%20Security-1904DA?style=flat&logo=aqua&logoColor=white)
+![Wiz](https://img.shields.io/badge/Wiz-0B0C12?style=flat)
+![Prisma Cloud](https://img.shields.io/badge/Prisma%20Cloud-00C1B2?style=flat&logo=paloaltonetworks&logoColor=white)
+
+**DevOps & DevSecOps**
+
+CI/CD, Infrastructure as Code, and SDLC supply-chain controls (SCA, SLSA, SBOM, Dependency-Track).
+
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+![JFrog Artifactory](https://img.shields.io/badge/JFrog%20Artifactory-41BF47?style=flat&logo=jfrog&logoColor=white)
+![Odyssey](https://img.shields.io/badge/Odyssey-1F2937?style=flat)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white)
 
 ---
 
