@@ -17,7 +17,7 @@
 
 Senior Security Researcher at **Cisco ThousandEyes**, with **7+ years** securing large-scale SaaS across detection, incident response, cloud and Kubernetes, product security, and vulnerability research.
 
-I investigate and mitigate critical incidents involving advanced persistent threats and nation-state campaigns, including **Cozy Bear, TeamPCP, and Lazarus**. As a **Bugcrowd P1 Warrior Level 3**, I use that offensive background to write detection, hunt in AWS and Kubernetes, and close real attack paths.
+I investigate and mitigate critical incidents involving advanced persistent threats and nation-state campaigns, including **Cozy Bear, TeamPCP, and Lazarus**. I use my offensive background to write detection, hunt in Cloud and Kubernetes, and close real attack paths.
 
 - **DFIR** — Incident response and forensics on endpoints, multi-cloud, and Kubernetes, from platform abuse and malware through root cause and chain of custody.
 - **Red Team & VDP** — Adversary simulations and disclosure programs, from exploit validation through remediation with engineering and SRE.
