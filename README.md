@@ -61,6 +61,9 @@ Cybersecurity content on TikTok (1.1M+ views, 27K+ followers), YouTube, and Udem
 | **Practical Malware Analysis** | TCM Security | Malware Analysis |
 | **Practical Ethical Hacking** | TCM Security | Offensive Security |
 | **Practical Privilege Escalation** | TCM Security | Windows & Linux |
+| **Machine Learning for Red Team Hackers** | Udemy | Offensive AI |
+| **Data Science for Cybersecurity** | Udemy | Detection & Data Science |
+| **Python for Machine Learning & Data Science Masterclass** | Udemy | Machine Learning |
 
 
 ---
